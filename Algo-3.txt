@@ -1,0 +1,5 @@
+﻿Step1: start
+Step2: assign the variables a,b and c
+Step3: store the values of variables a,b and c from console
+Step4: display the output
+Step5: stop

@@ -1,0 +1,11 @@
+﻿Step1: start
+Step2: assign the variable a
+Step3: store the value of variable a from the                              console
+Step4:check the condition
+           if a>=18
+           Print ("Eligible for voting")
+           
+          else
+          Print ("Not eligible")
+Step5: display the output
+Step6: stop
